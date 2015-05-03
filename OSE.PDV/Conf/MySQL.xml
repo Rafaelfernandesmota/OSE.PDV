@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<!--Este e Arquivo que configura a conexao MySQL Server-->
+<CFMYSQL>
+	<SERVIDOR></SERVIDOR>
+	<PORTA></PORTA>
+	<USUARIO></USUARIO>
+	<SENHA></SENHA>
+	<BANCO></BANCO>
+</CFMYSQL>

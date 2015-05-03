@@ -1,0 +1,13 @@
+C:\Users\Maybe\Source\Repos\League-of-Camera\OSE.PDV\Utilitario\bin\Debug\Utilitario.exe.config
+C:\Users\Maybe\Source\Repos\League-of-Camera\OSE.PDV\Utilitario\bin\Debug\Utilitario.exe
+C:\Users\Maybe\Source\Repos\League-of-Camera\OSE.PDV\Utilitario\bin\Debug\Utilitario.pdb
+C:\Users\Maybe\Source\Repos\League-of-Camera\OSE.PDV\Utilitario\obj\Debug\Utilitario.csprojResolveAssemblyReference.cache
+C:\Users\Maybe\Source\Repos\League-of-Camera\OSE.PDV\Utilitario\obj\Debug\MainWindow.baml
+C:\Users\Maybe\Source\Repos\League-of-Camera\OSE.PDV\Utilitario\obj\Debug\MainWindow.g.cs
+C:\Users\Maybe\Source\Repos\League-of-Camera\OSE.PDV\Utilitario\obj\Debug\App.g.cs
+C:\Users\Maybe\Source\Repos\League-of-Camera\OSE.PDV\Utilitario\obj\Debug\Utilitario_MarkupCompile.cache
+C:\Users\Maybe\Source\Repos\League-of-Camera\OSE.PDV\Utilitario\obj\Debug\Utilitario.g.resources
+C:\Users\Maybe\Source\Repos\League-of-Camera\OSE.PDV\Utilitario\obj\Debug\Utilitario.Properties.Resources.resources
+C:\Users\Maybe\Source\Repos\League-of-Camera\OSE.PDV\Utilitario\obj\Debug\Utilitario.csproj.GenerateResource.Cache
+C:\Users\Maybe\Source\Repos\League-of-Camera\OSE.PDV\Utilitario\obj\Debug\Utilitario.exe
+C:\Users\Maybe\Source\Repos\League-of-Camera\OSE.PDV\Utilitario\obj\Debug\Utilitario.pdb
